@@ -33,7 +33,7 @@
     "subscribe",
     "autoreply",
     "dnd",
-    "serverip",
+    "csserver",
     "starter",
     "remind"
   ]
