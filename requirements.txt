@@ -4,6 +4,7 @@ appdirs
 asyncio
 aiohttp>=1.0,<1.1
 jsonrpclib-pelix
+python-valve
 
 # PLUGIN DEPENDENCIES #
 
